@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+- 🙋 My real name is Mirsad.
 - 🌱 I’m currently learning python languague.
-- ⚡ Fun fact: Cats can walk on water. 
+- ⚡ Fun fact: Cats can walk on water.
 <!--
 **xiaracclaere/xiaracclaere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
